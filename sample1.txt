@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Main prog
 Develop code
+=======
+This is F1 prog
+This is F2 prog
+>>>>>>> f2
 
